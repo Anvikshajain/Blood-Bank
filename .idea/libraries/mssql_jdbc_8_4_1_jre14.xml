@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-8.4.1.jre14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/api_s/mssql-jdbc-8.4.1.jre14.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/api_s/mysql-connector-java-8.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
